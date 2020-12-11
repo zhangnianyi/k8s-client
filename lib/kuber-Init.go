@@ -24,5 +24,5 @@ panic(err)
 	if err != nil {
 	panic(err)
 	}
-	kubeClient=clientset
+	KubeClient=clientset
 }
